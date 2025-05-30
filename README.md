@@ -1,2 +1,2 @@
-# webmachine template for openai.
+# webmachine template for deepseek.
 Template for webmachine pages
