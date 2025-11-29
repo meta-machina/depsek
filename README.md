@@ -1,1 +1,1 @@
-### webmachine template (depsek)
+### Thingking-Machine (depsek)
